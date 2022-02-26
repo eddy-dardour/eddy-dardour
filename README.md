@@ -7,7 +7,7 @@ Hi, My name is Eddy Dardour !
                                                            
 ### Knowledge
 JavaScript :
-CSS :
-HTML:
-React :
-Bootstrap : 
+CSS
+HTML
+React
+Bootstrap (a bit!)
